@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot>2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="HR- Bump Box">c2a0ba531b2d0010190fa9b4bd4bcb36</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:55:42</sys_created_on>
+        <sys_id>4723bad31b2d0010190fa9b4bd4bcb23</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_4723bad31b2d0010190fa9b4bd4bcb23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:55:43</sys_updated_on>
+        <ui_id>62cee575-8f0b-4893-ad13-895fbd8c3395</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=4723bad31b2d0010190fa9b4bd4bcb23"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>4723bad31b2d0010190fa9b4bd4bcb23</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:55:42</sys_created_on>
+        <sys_id>0723bad31b2d0010190fa9b4bd4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:55:42</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=4723bad31b2d0010190fa9b4bd4bcb23"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>4723bad31b2d0010190fa9b4bd4bcb23</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:55:42</sys_created_on>
+        <sys_id>cf23bad31b2d0010190fa9b4bd4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:55:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>4723bad31b2d0010190fa9b4bd4bcb23</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:55:42</sys_created_on>
+        <sys_id>8323bad31b2d0010190fa9b4bd4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:55:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>opened_by={{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by}}^u_requested_for={{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient}}^u_when_needed={{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.arrival_date}}^comments={{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_region}}{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_address}}^state=13</value>
+    </sys_element_mapping>
+</record_update>

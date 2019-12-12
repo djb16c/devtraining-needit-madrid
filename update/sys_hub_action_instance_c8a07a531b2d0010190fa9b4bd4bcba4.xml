@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment>Send email to Bump Box rep and CC the user who created the order</comment>
+        <compiled_snapshot>716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="HR- Bump Box">055d6e9f1be90010190fa9b4bd4bcbf6</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>c8a07a531b2d0010190fa9b4bd4bcba4</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_c8a07a531b2d0010190fa9b4bd4bcba4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-12 13:12:53</sys_updated_on>
+        <ui_id>5d0000e8-0fd0-4788-8e0e-808c267360ee</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=c8a07a531b2d0010190fa9b4bd4bcba4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c8a07a531b2d0010190fa9b4bd4bcba4</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>00a07a531b2d0010190fa9b4bd4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <value/>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c8a07a531b2d0010190fa9b4bd4bcba4</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>35a0ba531b2d0010190fa9b4bd4bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <value>Kimley horn bump box order</value>
+        <variable display_value="">0a62c1160b100300d97d8bf637673a05</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c8a07a531b2d0010190fa9b4bd4bcba4</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>4ca07a531b2d0010190fa9b4bd4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <value>lyndsey@bumpbox.com</value>
+        <variable display_value="">f61205d20b100300d97d8bf637673ac2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c8a07a531b2d0010190fa9b4bd4bcba4</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>71a0ba531b2d0010190fa9b4bd4bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <value/>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c8a07a531b2d0010190fa9b4bd4bcba4</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>bda0ba531b2d0010190fa9b4bd4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <value>lyndsey@bumpbox.com</value>
+        <variable display_value="">ce6281160b100300d97d8bf637673ac9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c8a07a531b2d0010190fa9b4bd4bcba4</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>c0a07a531b2d0010190fa9b4bd4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <value>Kimley horn bump box order</value>
+        <variable display_value="">b21241160b100300d97d8bf637673a4a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=c8a07a531b2d0010190fa9b4bd4bcba4"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>08a07a531b2d0010190fa9b4bd4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>&lt;p data-tinymcerootblock=""&gt;Hello,&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;I'd like to submit a bump box order for an employee here at Kimley Horn. Here are the details:&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Gift recipient's name:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="c3b1d6d9-5889-431f-8adf-b7e9b5f6183d" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="c3b1d6d9-5889-431f-8adf-b7e9b5f6183d" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;1➛gift_recipient➛Email&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Gift recipient's email:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="fe33833f-01bc-4b59-8bed-ffb259244d30" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="fe33833f-01bc-4b59-8bed-ffb259244d30" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;1➛gift_recipient➛Email&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Region:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="cd762d18-4b68-4190-bd9f-2ccd77bbc16a" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_region}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="cd762d18-4b68-4190-bd9f-2ccd77bbc16a" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_region}}"&gt;1➛recipient_region&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Address:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="88ecb144-51fc-438a-ad81-6d331298e7b4" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_address}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="88ecb144-51fc-438a-ad81-6d331298e7b4" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_address}}"&gt;1➛recipient_address&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Desired Arrival Date:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="458f8d7d-1fe3-44fe-9731-d92e47612544" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.arrival_date}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="458f8d7d-1fe3-44fe-9731-d92e47612544" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.arrival_date}}"&gt;1➛arrival_date&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Thanks,&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="21f19544-490e-4202-99bf-06b9ac174657" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.name}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="21f19544-490e-4202-99bf-06b9ac174657" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.name}}"&gt;1➛requested_by➛Name&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="0f32e9a9-4e93-4712-a902-c80439ce1193" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.email}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="0f32e9a9-4e93-4712-a902-c80439ce1193" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.email}}"&gt;1➛requested_by➛Email&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>79a0ba531b2d0010190fa9b4bd4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>&lt;p data-tinymcerootblock=""&gt;Hello,&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;I'd like to submit a bump box order for an employee here at Kimley Horn. Here are the details:&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Gift recipient's name:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="c3b1d6d9-5889-431f-8adf-b7e9b5f6183d" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="c3b1d6d9-5889-431f-8adf-b7e9b5f6183d" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;1➛gift_recipient➛Email&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Gift recipient's email:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="fe33833f-01bc-4b59-8bed-ffb259244d30" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="fe33833f-01bc-4b59-8bed-ffb259244d30" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.gift_recipient.email}}"&gt;1➛gift_recipient➛Email&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Region:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="cd762d18-4b68-4190-bd9f-2ccd77bbc16a" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_region}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="cd762d18-4b68-4190-bd9f-2ccd77bbc16a" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_region}}"&gt;1➛recipient_region&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Address:&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="88ecb144-51fc-438a-ad81-6d331298e7b4" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_address}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="88ecb144-51fc-438a-ad81-6d331298e7b4" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.recipient_address}}"&gt;1➛recipient_address&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Desired Arrival Date:&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="458f8d7d-1fe3-44fe-9731-d92e47612544" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.arrival_date}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="458f8d7d-1fe3-44fe-9731-d92e47612544" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.arrival_date}}"&gt;1➛arrival_date&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;Thanks,&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="21f19544-490e-4202-99bf-06b9ac174657" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.name}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="21f19544-490e-4202-99bf-06b9ac174657" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.name}}"&gt;1➛requested_by➛Name&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillid="0f32e9a9-4e93-4712-a902-c80439ce1193" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.email}}"&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="0f32e9a9-4e93-4712-a902-c80439ce1193" data-pillvalue="{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.email}}"&gt;1➛requested_by➛Email&lt;/span&gt;&lt;/span&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p data-tinymcerootblock=""&gt;&amp;nbsp;&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_cc</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>3da0ba531b2d0010190fa9b4bd4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.email}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_cc</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>c8a07a531b2d0010190fa9b4bd4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{c7f08339-3ef1-40a7-bd8c-6fa62534f4f1.requested_by.email}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>44a07a531b2d0010190fa9b4bd4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>b5a0ba531b2d0010190fa9b4bd4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:35</sys_created_on>
+        <sys_id>80a07a531b2d0010190fa9b4bd4bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:35</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>c8a07a531b2d0010190fa9b4bd4bcba4</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 15:44:42</sys_created_on>
+        <sys_id>f1a0ba531b2d0010190fa9b4bd4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 15:44:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

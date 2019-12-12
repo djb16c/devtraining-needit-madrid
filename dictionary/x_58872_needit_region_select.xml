@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="region_select" max_length="40" name="x_58872_needit_region_select" type="collection">
+        <element choice="1" display="true" label="Region" max_length="20" name="region" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Atlantic" value="Atlantic"/>
+                <element inactive_on_update="false" label="Atlantic" value="Atlantic"/>
+                <element inactive_on_update="false" label="California" value="California"/>
+                <element inactive_on_update="false" label="Mountain" value="Mountain"/>
+                <element inactive_on_update="false" label="Southeast" value="Southeast"/>
+                <element inactive_on_update="false" label="Texas" value="Texas"/>
+                <element inactive_on_update="false" label="Florida" sequence="100" value="Florida"/>
+                <element inactive_on_update="false" label="Florida" sequence="100" value="Florida"/>
+                <element inactive_on_update="false" label="Midwest" sequence="100" value="Midwest"/>
+            </choice>
+        </element>
+    </element>
+</database>
